@@ -2,3 +2,5 @@
 Primeiro repósitorio versionado do curso de Git e Github
 
 Repósitorio Criado assistindo Gustavo Guanabara Curso em Video!
+
+linha adicionada diretamente do site, que tooop.
